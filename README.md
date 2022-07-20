@@ -4,9 +4,11 @@
 
 Currently i'm working as a freelancer for flutter app development and ui ux designing and also looking for full time job opportunity to serve my skills to an organisations :)
 
-Skills: FLUTTER / FIREBASE / FIGMA / ADOBE XD / PHOTOSHOP
+Skills: DART / FLUTTER / FIREBASE / PYTHON / JAVA / FIGMA / ADOBE XD / PHOTOSHOP
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Flutter Projects 
+- 🌱 I’m currently learning Backend Services like AWS 
+- 👯 I’m looking to collaborate on Flutter Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shaikhnihal25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaikh-nihal-76b9a6243/)  
